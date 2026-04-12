@@ -1,5 +1,5 @@
-# Hi, I'm Temirlan Almukhamedov
-I am a beginner Flutter developer with a strong interest in building modern mobile applications.  
+# Hi, I'm Temirlan
+I am a developer with a strong interest in building modern mobile applications.  
 Currently focused on improving my skills in **Dart**, **Flutter**, and mobile architecture.
 
 ## Education
